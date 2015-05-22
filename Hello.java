@@ -7,5 +7,6 @@
 		private String empno ;
 		private String ename ;
 		private String job ;
+		System.out.println("Java二十周年纪念") ;
 	}
 }
