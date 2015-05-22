@@ -10,5 +10,6 @@ public class Emp {
 		public void setEmpno(Integer empno){
 		this.empno = empno ;
 		}
+		煖須煖須煖須煖須煖須煖須煖須煖須煖須瑁瑁騍騍腔華源華源華源
 	}
 }
